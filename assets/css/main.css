@@ -3372,7 +3372,7 @@ input, select, textarea {
 		display: flex;
 		background-color: #5e42a6;
 		cursor: default;
-		padding: 1.75em 2em;
+		padding: 1.75em 8em;
 	}
 
 		#header > .title {
